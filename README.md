@@ -44,8 +44,10 @@
 38.    "ruleBookContent": "",//章节内容正文
 39.    "httpUserAgent": "",//浏览器标识，一般用不到
 40.    "enable": true,//是否启用书源
-41.    "serialNumber": //书源排序，默认即可
-42.    "weight": ,//权重，搜索优先级，默认即可
+41.    "serialNumber":4 //书源排序，默认即可
+42.    "weight":1 ,//权重，搜索优先级，默认即可
+
+
 }
 
 
