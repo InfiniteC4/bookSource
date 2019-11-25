@@ -3,14 +3,14 @@
 
 * 以下是一个标准单个书源的各个参数的简单
 
-    {
-    "bookSourceUrl": "",//书源的地址（一般是网站首页）
-    "bookSourceName": "",//书源的名称
-    "bookSourceGroup": "",//书源的分组（可空）
-    "loginUrl": "",//登录网址（少数需登录站点可能会用到）
-    "ruleFindUrl": "",//发现功能（编辑发现按钮进入）
-    "ruleFindList": "",//发现列表，某分类或榜单列表类似于搜索结果列表
-    "ruleFindName": "",//发现书名，
+     {
+        "bookSourceUrl": "",//书源的地址（一般是网站首页）
+        "bookSourceName": "",//书源的名称
+        "bookSourceGroup": "",//书源的分组（可空）
+        "loginUrl": "",//登录网址（少数需登录站点可能会用到）
+        "ruleFindUrl": "",//发现功能（编辑发现按钮进入）
+        "ruleFindList": "",//发现列表，某分类或榜单列表类似于搜索结果列表
+        "ruleFindName": "",//发现书名，
     "ruleFindAuthor": "",//发现作者，
     "ruleFindKind": "",//发现分类，
     "ruleFindIntroduce": "",//发现简介，
@@ -22,7 +22,7 @@
     "ruleSearchName": "",//搜索结果页的书名
     "ruleSearchAuthor": "",//搜索结果页的作者
     "ruleSearchKind": "",//搜索结果页的书籍分类
-    "ruleSearchLastChapter": "",//搜索结果页的最新章节
+    "ruleSearchLastChapter": ""  ,//搜索结果页的最新章节
     "ruleSearchIntroduce": "",//搜索结果页的书籍简介
     "ruleSearchCoverUrl": "",//搜索结果页的书封面
     "ruleSearchNoteUrl": "",//书籍页跳转链接
