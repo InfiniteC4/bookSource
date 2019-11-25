@@ -1,11 +1,9 @@
 # bookSource
 开源阅读软件的自制书源
 
+* 以下是一个标准单个书源的各个参数的简单
 
-以下是一个标准单个书源的各个参数的简单解
-
-'''
-{
+    {
     "bookSourceUrl": "",//书源的地址（一般是网站首页）
     "bookSourceName": "",//书源的名称
     "bookSourceGroup": "",//书源的分组（可空）
@@ -47,17 +45,15 @@
     "enable": true,//是否启用书源
     "serialNumber": //书源排序，默认即可
     "weight": ,//权重，搜索优先级，默认即可
-}
-'''
+    }
 
 
-书源制作教程
--https://gedoor.github.io/MyBookshelf/sourcerule.html
+* 书源制作教程
+- https://gedoor.github.io/MyBookshelf/sourcerule.html
 
-第三方书源制作教程
--https://www.52pojie.cn/thread-758541-1-1.html
+* 第三方书源制作教程
+- https://www.52pojie.cn/thread-758541-1-1.html
 
-
-语法测试
--jsoup语法测试 https://try.jsoup.org
--JSonPath语法测试 http://jsonpath.herokuapp.com
+* 语法测试
+- jsoup语法测试 https://try.jsoup.org
+- JSonPath语法测试 http://jsonpath.herokuapp.com
