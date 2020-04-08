@@ -60,3 +60,6 @@
 * 语法测试
 - jsoup语法测试 https://try.jsoup.org
 - JSonPath语法测试 http://jsonpath.herokuapp.com
+
+* 在线书源编辑
+- http://www.legado.top/MyBookshelf/sourceEdit/index.html
